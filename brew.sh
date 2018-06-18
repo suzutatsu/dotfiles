@@ -5,3 +5,5 @@ brew install maven
 brew install npm
 brew install grunt
 brew install pip
+brew install guru
+brew install docker
