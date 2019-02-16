@@ -7,3 +7,4 @@ brew install grunt
 brew install pip
 brew install guru
 brew cask install docker
+brew install terraform
